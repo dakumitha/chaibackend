@@ -17,5 +17,8 @@
     "chai"
   ],
   "author": "Hitesh Choudhury",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.8.1"
+  }
 }
